@@ -59,7 +59,7 @@ export default function Hero() {
                 Let's Connect
               </button>
               <a
-                href="https://linkedin.com/in/your-profile"
+                href="https://www.linkedin.com/in/chandra-bhushan-sah-77481b296/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-8 py-3 border-2 border-cyan-400 text-cyan-400 rounded-lg hover:bg-cyan-400 hover:text-white transition-all duration-300 font-medium flex items-center justify-center gap-2"
