@@ -64,7 +64,7 @@ export default function Footer() {
         {/* Footer Bottom */}
         <div className="text-center pt-8 border-t border-gray-700">
           <p className="text-slate-400">
-            © {new Date().getFullYear()} Chandra Bhushan Sah — Crafted with passion
+            © {new Date().getFullYear()} Chandra Bhushan Sah — Crafted with passion .
           </p>
         </div>
       </div>
